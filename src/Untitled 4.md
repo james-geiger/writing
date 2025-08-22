@@ -15,8 +15,11 @@ even though he must've misunderstood.
 
 At least, scientifically speaking, they
 must know—or should.
-Bug perhaps he meant they don't know
+But perhaps he meant they don't know
 spiritually—though that seems clear, too.
+
+
+
 
 A warm May evening, the kind of day
 spend outside despite the unusual heat.
@@ -31,6 +34,10 @@ fueled by the hot moisture and a life spent
 at odds with himself—
 growing 50,000 feet into the stratosphere, a
 feedback loop of rising, falling, rage, calm—
+rising
+		falling
+rage
+		calm
 reaching fever pitch in some field miles away.
 
 Spirit now cyclone, its own friend and foe,
@@ -61,3 +68,35 @@ satisfied that grudge they
 held against themself
 all these
 years
+
+
+---
+Draft 2 (working)
+
+
+Clouds having given way to sunshine on this June afternoon,
+a family silently sits together on the sunporch, senses
+dulled by their recent loss, though noticing the humidity.
+
+Their dad
+		granddad
+				husband
+					    lays in the next room, finally.
+His spirit, evaporating in the heat, only adds more moisture to an
+environment ripe for rage, catalyzed by the dissonant mourning
+for this dearly departed thorn bush—untamed, unpruned, vengeful.
+
+Fueled by hot moisture, instability, a life spent at odds with itself,
+this cloud slowly grows fifty thousand feet into the stratosphere,
+unbounded by the limitations of ----, 
+a cathartic feedback loop of air molecules—
+
+rising
+		falling
+				rage
+						calm reaching its fever pitch in some
+proximal field, victim of happenstance, 
+
+
+
+

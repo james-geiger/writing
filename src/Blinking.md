@@ -5,17 +5,17 @@ publisher:
 tags: 
 first draft date: 2025-06-21
 ---
-Tonight I am at war with nobody but myself.
-Introspection revealing only more to be discerned.
-
 Children, as they sleep, process new information into memories.
-Adults, while their children sleep, contemplate their future, and, in doing so, contemplate their own—
+Parents, while their children sleep, contemplate the future—
 
-How is one to arrest the mountain of the everyday doldrum,
-that which keeps us marching steadily along toward the solitude of death?
+Tonight, though, I am at war with myself, examining my life's
+frustrating contours, revealing my weaknesses and faults—
 
-What should I do now to overcome the weight of living,
-to commune with God while still here,
-to signal to the fireflies—
-lacking my own light—
+What weapon can arrest the march of the doldrums,
+our steady processional toward the solitude of death?
+
+What must I do to transcend the weight of living,
+to commune with God while still here—
+
+To signal to the fireflies, my lacking light,
 I understand.
