@@ -1,7 +1,7 @@
 ---
-title: 
-status: 
-publisher: 
-tags: 
+title:
+status:
+publisher:
+tags:
 first draft date: "{{date}}"
 ---

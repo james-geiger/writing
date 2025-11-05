@@ -45,12 +45,10 @@ I am the spouse
 I am the officer
 I am the social worker
 I am the flag
-whose stripes in summer heat
-languish,
-whose winds of justice
-stagnate,
-whose symbolism willingly
-fouled.
+
+whose stripes in summer heat languish,
+whose winds of justice stagnate,
+whose symbolism willingly fouled.
 
 You are the immigrant,
 undocumented,
